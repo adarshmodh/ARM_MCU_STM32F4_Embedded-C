@@ -1,0 +1,37 @@
+Timer with UPDATE Event
+
+1.  Toggle LED at every 1s using Advance Timer 1.
+
+2.  Toggle LED at every 1s using Basic Timer 3.
+
+3.  Toggle LED1 at 1s and LED2 at 2s using Timer 2.
+
+4.  Define 5 Tasks to be done at differnt time interval using ROUND-Robbin Copncepts using Timer 7.
+
+5.  write Keyscan function to take action on release and call that fuction at every 80 ms.
+
+6.  Generate 1 KHz square wave with 50% duty cycle at PD10.
+
+7.  Generate 10 KHz Complementry Squre Wave on PD10 and PD11 
+
+8.  Timer 1 with 1s and Timer 2 with 2s update event.
+
+
+Timer in Output Compare Mode
+
+1.  Generate 1KHz PWM wave with 20% duty cycle using PWM Mode for TIMER 1 Channel 1.
+
+2.  Generate 1KHz square wave using Toggle Mode for TIMER 3 channel 2.
+
+3.  Generate 1KHz PWM wave for TIMER 1 (CH1: 20%, CH2: 40%, CH3: 75%, CH4: 92% Duty Cycle).
+
+4.  Generate two square wave of 10KHz with 90 degree phase shift using TIMER 8 on Channel 1 and 2.
+
+5.  Generate PWM on Timer1 channel 1 and complementry PWM on channel 2 with deadband of 1us.
+
+
+Timer in Capture Mode
+
+1. measure frequency of unknown squre wave using TIMER 3 channel 3.
+
+2. measure duty cycle of unknown squre wave using TIMER 1 channel 2.
